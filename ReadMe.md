@@ -1,3 +1,8 @@
+# Example of Rebasing
+This fork was used when learning about the benefits of rebasing a branch to keep commit history in order while incorporating the changes made through other branches.
+
+Original Readme below
+
 ## The Little Black Fish
 By: Samad Behrangi
 
